@@ -17,7 +17,7 @@ I added the following to make the website more accessible
 * Comments on the code further help to recognize the purpose of each section
 
 ## Website
-https://kotaewing.github.io/Challenge-1-Refactor/
+https://kotaewing.github.io/challenge-1-revised/
 
 ## Notes
 The first repository I created was set up wrong, but here is the link to it so you can see my inital work and commits
